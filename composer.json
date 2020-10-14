@@ -1,29 +1,29 @@
 {
-    "name": "laravel-enso/documents",
+    "name": "genealogiawebsite/documents",
     "description": "Documents Manager for Laravel Enso",
     "keywords": [
-        "laravel-enso",
+        "genealogiawebsite",
         "documents",
         "documents-manager",
         "file-uploader"
     ],
-    "homepage": "https://github.com/laravel-enso/documents",
+    "homepage": "https://github.com/genealogiawebsite/documents",
     "type": "plugin",
     "license": "MIT",
     "authors": [{
         "name": "Adrian Ocneanu",
         "email": "aocneanu@gmail.com",
-        "homepage": "https://laravel-enso.com",
+        "homepage": "https://genealogiawebsite.com",
         "role": "Developer"
     }],
     "require": {
-        "laravel-enso/core": "^5.0|^6.0",
-        "laravel-enso/helpers": "^2.0",
-        "laravel-enso/files": "^4.0",
-        "laravel-enso/ocr": "1.0.*",
-        "laravel-enso/image-transformer": "^2.0",
-        "laravel-enso/migrator": "^2.0",
-        "laravel-enso/track-who": "^2.0"
+        "genealogiawebsite/core": "^5.0|^6.0",
+        "genealogiawebsite/helpers": "^2.0",
+        "genealogiawebsite/files": "^4.0",
+        "genealogiawebsite/ocr": "1.0.*",
+        "genealogiawebsite/image-transformer": "^2.0",
+        "genealogiawebsite/migrator": "^2.0",
+        "genealogiawebsite/track-who": "^2.0"
     },
     "autoload": {
         "psr-4": {
